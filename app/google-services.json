@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571734082965",
+    "project_id": "aquaserve-30efa",
+    "storage_bucket": "aquaserve-30efa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571734082965:android:5214c103877a2ad043629c",
+        "android_client_info": {
+          "package_name": "com.example.aquaserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571734082965-ebi6ptojckaqrp8qju47a9sn3172ssn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquaserve",
+            "certificate_hash": "8c2d642841788346829af51df3847236c371b2ff"
+          }
+        },
+        {
+          "client_id": "571734082965-vvss9qf4578vfurgjrl00qu5jm4b4l74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJg5HX_AQqMTBRMtKLsgAvL3vBDNbhTCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571734082965-vvss9qf4578vfurgjrl00qu5jm4b4l74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
